@@ -13,7 +13,6 @@ let package = Package(
     targets: [
         .target(
             name: "TransitionButton",
-            path: "TransitionButton",
             exclude: [
                 "Info.plist",
             ],
